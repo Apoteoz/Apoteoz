@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔎 **Je recherche un stage en développement logiciel**, et je suis disponible de mi-janvier à fin août 2027.
+**Je recherche un stage** et suis disponible de mi-janvier à fin août 2027.
 
 ## Compétences
 
