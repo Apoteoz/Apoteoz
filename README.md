@@ -4,8 +4,8 @@
 
 ## Compétences
 
-- **Langages** : C, C++, OCaml, SQL, notions de Python
-- **Web** : HTML, CSS
+- **Langages** : C, C++, OCaml, SQL, notions Python
+- **Bases Web** : HTML, CSS
 - **Réseaux** : modèle en couches, adressage IP, ARP, Packet Tracer
 - **Outils** : Git, GitHub Copilot
 
