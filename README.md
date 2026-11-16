@@ -12,7 +12,7 @@
 ## Projets
 
 - **[Interpréteur Logo](https://github.com/Apoteoz/Projet-1)** : application console en C++ qui interprète des commandes (répétitions imbriquées comprises) et génère le dessin au format SVG. Conception orientée objet et STL.
-- **[Jeu Pokémon en ligne de commandes](https://github.com/Apoteoz/Projet-2)** : jeu en C avec menu interactif, structures de données et tableaux dynamiques.
+- **[Jeu Pokémon en ligne de commandes](https://github.com/Apoteoz/Projet-2)** : jeu en C++ avec menu interactif, structures de données et tableaux dynamiques.
 
 ## Ce que je recherche
 
