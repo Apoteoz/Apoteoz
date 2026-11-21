@@ -13,7 +13,7 @@
 
 - **[Interpréteur Logo](https://github.com/Apoteoz/Projet-1)** : application console en C++ qui interprète des commandes (répétitions imbriquées comprises) et génère le dessin au format SVG. Conception orientée objet et STL.
 - **[Jeu Pokémon en ligne de commandes](https://github.com/Apoteoz/Projet-2)** : jeu en C++ avec menu interactif, structures de données et tableaux dynamiques.
-- **[Portfolio web](https://ton-pseudo.github.io/nom-du-depot/)** : mon premier site, conçu de zéro en HTML et CSS (balises sémantiques, Flexbox, variables CSS) et publié avec GitHub Pages. [Code source](https://github.com/Apoteoz/nom-du-depot)
+- **[Portfolio web](https://Apoteoz.github.io/Projet-3/)** : mon premier site, conçu de zéro en HTML et CSS (balises sémantiques, Flexbox, variables CSS) et publié avec GitHub Pages.
 
 ## Ce que je recherche
 
